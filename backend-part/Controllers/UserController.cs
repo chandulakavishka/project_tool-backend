@@ -15,7 +15,7 @@ namespace backend_part.Controllers
             _context = context;
         }
 
-        [HttpPost("Register")]
+        [HttpPost("register")]
         public async Task<IActionResult> Register(UserRegister request)
         {
             if(_context.Users.Any(u => u.Email == request.Email)) 
