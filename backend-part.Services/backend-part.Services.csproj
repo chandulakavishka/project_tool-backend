@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\backend-part.DataAccess\backend-part.DataAccess.csproj" />
+    <ProjectReference Include="..\backend-part.Models\backend-part.Models.csproj" />
+  </ItemGroup>
+
 </Project>

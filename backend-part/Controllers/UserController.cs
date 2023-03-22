@@ -28,9 +28,11 @@ namespace backend_part.Controllers
 
             var User = new User
             {
+                Name = request.Name,
                 Email = request.Email,
                 PasswordHash = passwordHash,
                 PasswordSalt = passwordSalt,
+                PhoneNo =request.PhoneNo,
                 VerificationToken = CreateRandomToken()
             };
             _context.Users.Add(User);
@@ -39,7 +41,7 @@ namespace backend_part.Controllers
             return Ok("User Sucessful Registered!");
         }
 
-        [HttpPost("Login")]
+        [HttpPost("login")]
         public async Task<IActionResult> Login(UserLogin request)
         {
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == request.Email);
@@ -131,5 +133,7 @@ namespace backend_part.Controllers
         {
             return Convert.ToHexString(RandomNumberGenerator.GetBytes(64));
         }
+
+
     }
 }

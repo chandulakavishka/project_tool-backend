@@ -16,5 +16,9 @@ namespace backend_part.Data
             optionsBuilder.UseSqlServer("server=DESKTOP-O596UUO;database=AppDB;Integrated Security=true; MultipleActiveResultSets=true; TrustServerCertificate=true;");
         }
         public DbSet<User> Users => Set<User>();
+        public DbSet<UserComment> Comments => Set<UserComment>();
+        public DbSet<UserTask> Tasks => Set<UserTask>();
+
+
     }
 }

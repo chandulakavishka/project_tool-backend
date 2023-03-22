@@ -344,3 +344,10 @@ D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\pro
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.pdb
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.genruntimeconfig.cache
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\ref\backend-part.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\MailKit.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\MimeKit.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.Services.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.Services.pdb
