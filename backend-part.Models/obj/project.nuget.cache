@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ABC3eUkN+MxHiVeyjDheUuEQD3sRJNZLe5AV/fwlJFQwg/dK/EGjRat+s2fwozsxOfhj+DvuRwe1vTI2myCY9w==",
+  "dgSpecHash": "xIkpAUhfFw2DXCs/qr65cJlXGc7BSGai/Fq3F8u/be2ihVCXTXupzCnaWCVC3KFLUVYATpcoRIIfqScR3tw33g==",
   "success": true,
-  "projectFilePath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj",
+  "projectFilePath": "D:\\project\\backend-part.Models\\backend-part.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

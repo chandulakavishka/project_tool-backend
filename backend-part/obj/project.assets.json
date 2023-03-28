@@ -892,6 +892,20 @@
         "runtime": {
           "bin/placeholder/backend-part.Models.dll": {}
         }
+      },
+      "backend-part.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "backend-part.DataAccess": "1.0.0",
+          "backend-part.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/backend-part.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/backend-part.Services.dll": {}
+        }
       }
     }
   },
@@ -2246,6 +2260,11 @@
       "type": "project",
       "path": "../backend-part.Models/backend-part.Models.csproj",
       "msbuildProject": "../backend-part.Models/backend-part.Models.csproj"
+    },
+    "backend-part.Services/1.0.0": {
+      "type": "project",
+      "path": "../backend-part.Services/backend-part.Services.csproj",
+      "msbuildProject": "../backend-part.Services/backend-part.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2256,23 +2275,24 @@
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.5",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "backend-part.DataAccess >= 1.0.0",
-      "backend-part.Models >= 1.0.0"
+      "backend-part.Models >= 1.0.0",
+      "backend-part.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Thilini Wijekoon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part\\backend-part.csproj",
+      "projectUniqueName": "D:\\project\\backend-part\\backend-part.csproj",
       "projectName": "backend-part",
-      "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part\\backend-part.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part\\obj\\",
+      "projectPath": "D:\\project\\backend-part\\backend-part.csproj",
+      "packagesPath": "C:\\Users\\Thilini Wijekoon\\.nuget\\packages\\",
+      "outputPath": "D:\\project\\backend-part\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thilini Wijekoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2286,11 +2306,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj": {
-              "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj"
+            "D:\\project\\backend-part.DataAccess\\backend-part.DataAccess.csproj": {
+              "projectPath": "D:\\project\\backend-part.DataAccess\\backend-part.DataAccess.csproj"
             },
-            "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj": {
-              "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj"
+            "D:\\project\\backend-part.Models\\backend-part.Models.csproj": {
+              "projectPath": "D:\\project\\backend-part.Models\\backend-part.Models.csproj"
+            },
+            "D:\\project\\backend-part.Services\\backend-part.Services.csproj": {
+              "projectPath": "D:\\project\\backend-part.Services\\backend-part.Services.csproj"
             }
           }
         }
@@ -2349,7 +2372,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

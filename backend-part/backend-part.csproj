@@ -24,6 +24,7 @@
   <ItemGroup>
     <ProjectReference Include="..\backend-part.DataAccess\backend-part.DataAccess.csproj" />
     <ProjectReference Include="..\backend-part.Models\backend-part.Models.csproj" />
+    <ProjectReference Include="..\backend-part.Services\backend-part.Services.csproj" />
   </ItemGroup>
 
 </Project>

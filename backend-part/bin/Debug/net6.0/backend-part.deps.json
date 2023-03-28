@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "6.0.5",
           "Swashbuckle.AspNetCore": "6.2.3",
           "backend-part.DataAccess": "1.0.0",
-          "backend-part.Models": "1.0.0"
+          "backend-part.Models": "1.0.0",
+          "backend-part.Services": "1.0.0"
         },
         "runtime": {
           "backend-part.dll": {}
@@ -499,6 +500,15 @@
         "runtime": {
           "backend-part.Models.dll": {}
         }
+      },
+      "backend-part.Services/1.0.0": {
+        "dependencies": {
+          "backend-part.DataAccess": "1.0.0",
+          "backend-part.Models": "1.0.0"
+        },
+        "runtime": {
+          "backend-part.Services.dll": {}
+        }
       }
     }
   },
@@ -857,6 +867,11 @@
       "sha512": ""
     },
     "backend-part.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "backend-part.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

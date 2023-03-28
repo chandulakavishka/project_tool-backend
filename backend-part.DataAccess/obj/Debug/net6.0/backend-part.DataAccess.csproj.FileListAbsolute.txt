@@ -66,3 +66,20 @@ D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\pro
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.pdb
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.genruntimeconfig.cache
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\ref\backend-part.DataAccess.dll
+D:\project\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.deps.json
+D:\project\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.runtimeconfig.json
+D:\project\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.dll
+D:\project\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.pdb
+D:\project\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.dll
+D:\project\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.pdb
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.AssemblyReference.cache
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfoInputs.cache
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfo.cs
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CoreCompileInputs.cache
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CopyComplete
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.dll
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\refint\backend-part.DataAccess.dll
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.pdb
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.genruntimeconfig.cache
+D:\project\backend-part.DataAccess\obj\Debug\net6.0\ref\backend-part.DataAccess.dll

@@ -1,0 +1,17 @@
+D:\project\backend-part.Services\bin\Debug\net6.0\backend-part.Services.deps.json
+D:\project\backend-part.Services\bin\Debug\net6.0\backend-part.Services.dll
+D:\project\backend-part.Services\bin\Debug\net6.0\backend-part.Services.pdb
+D:\project\backend-part.Services\bin\Debug\net6.0\backend-part.DataAccess.dll
+D:\project\backend-part.Services\bin\Debug\net6.0\backend-part.Models.dll
+D:\project\backend-part.Services\bin\Debug\net6.0\backend-part.DataAccess.pdb
+D:\project\backend-part.Services\bin\Debug\net6.0\backend-part.Models.pdb
+D:\project\backend-part.Services\obj\Debug\net6.0\backend-part.Services.csproj.AssemblyReference.cache
+D:\project\backend-part.Services\obj\Debug\net6.0\backend-part.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\backend-part.Services\obj\Debug\net6.0\backend-part.Services.AssemblyInfoInputs.cache
+D:\project\backend-part.Services\obj\Debug\net6.0\backend-part.Services.AssemblyInfo.cs
+D:\project\backend-part.Services\obj\Debug\net6.0\backend-part.Services.csproj.CoreCompileInputs.cache
+D:\project\backend-part.Services\obj\Debug\net6.0\backend-part.Services.csproj.CopyComplete
+D:\project\backend-part.Services\obj\Debug\net6.0\backend-part.Services.dll
+D:\project\backend-part.Services\obj\Debug\net6.0\refint\backend-part.Services.dll
+D:\project\backend-part.Services\obj\Debug\net6.0\backend-part.Services.pdb
+D:\project\backend-part.Services\obj\Debug\net6.0\ref\backend-part.Services.dll
