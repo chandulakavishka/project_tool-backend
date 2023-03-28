@@ -6,10 +6,10 @@ namespace backend_part.Models
     {
         [Key]
         public int Id { get; set; }
+        public string Role { get; set; } = string.Empty;
         public string Name { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
-        public byte[] PasswordHash { get; set; } = new byte[32];
-        public byte[] PasswordSalt { get; set; } = new byte[32];
+        public string PasswordHash { get; set; } = string.Empty;
         public string PhoneNo { get; set; } = string.Empty;
         public string? VerificationToken { get; set; }
         public DateTime? VerifiedAt { get; set; }

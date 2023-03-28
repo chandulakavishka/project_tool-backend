@@ -328,7 +328,6 @@ D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\pro
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfoInputs.cache
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfo.cs
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cs
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cache
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.backend-part.Microsoft.AspNetCore.StaticWebAssets.props
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.build.backend-part.props
@@ -351,3 +350,5 @@ D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\pro
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\System.IO.Packaging.dll
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.Services.dll
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.Services.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cs
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\BCrypt.Net-Next.dll

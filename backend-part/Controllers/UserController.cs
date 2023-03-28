@@ -1,7 +1,15 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using backend_part.Models;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
+using Org.BouncyCastle.Crypto.Generators;
 using System.Data;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
 using System.Security.Cryptography;
+using System.Text;
 
 namespace backend_part.Controllers
 {
@@ -10,9 +18,13 @@ namespace backend_part.Controllers
     public class UserController : ControllerBase
     {
         private readonly DataContext _context;
-        public UserController(DataContext context) 
+        private readonly IConfiguration _configuration;
+
+        public UserController(DataContext context, IConfiguration configuration)
         {
             _context = context;
+            _configuration = configuration;
+
         }
 
         [HttpPost("register")]
@@ -22,23 +34,27 @@ namespace backend_part.Controllers
             {
                 return BadRequest("User alredy exists");
             }
-            CreatedPasswordHash(request.Password, 
+            /*CreatedPasswordHash(request.Password, 
                 out byte[] passwordHash, 
-                out byte[] passwordSalt);
+                out byte[] passwordSalt);*/
+            string passwordHash = BCrypt.Net.BCrypt.HashPassword(request.Password);
 
             var User = new User
             {
+
                 Name = request.Name,
                 Email = request.Email,
                 PasswordHash = passwordHash,
-                PasswordSalt = passwordSalt,
                 PhoneNo =request.PhoneNo,
                 VerificationToken = CreateRandomToken()
             };
+            var token = CreateRandomToken(User);
+            /*var confirmationLink = Url.Action(nameof(ConfirmEmail), "Authentication",
+               new { token, email = User.Email }, Request.Scheme);*/
             _context.Users.Add(User);
-            await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();;
 
-            return Ok("User Sucessful Registered!");
+            return Ok(token);
         }
 
         [HttpPost("login")]
@@ -49,15 +65,16 @@ namespace backend_part.Controllers
             {
                 return BadRequest("User not found!");
             }
-            if (!VerifyPasswordHash(request.Password, user.PasswordHash, user.PasswordSalt))
+            if (!BCrypt.Net.BCrypt.Verify(request.Password, user.PasswordHash))
             {
                 return BadRequest("Password is incorrect.");
             }
-            if (user.VerifiedAt == null) 
+            if (user.VerifiedAt == null)
             {
                 return BadRequest("Not Verified!");
             }
-            return Ok($"Welcome back, {user.Email}!");
+            string token = CreateRandomToken(user);
+            return Ok(token);
         }
 
         [HttpPost("verify")]
@@ -96,11 +113,11 @@ namespace backend_part.Controllers
             {
                 return BadRequest("Invalid Token.");
             }
-            CreatedPasswordHash(request.Password,
+            /*CreatedPasswordHash(request.Password,
                 out byte[] passwordHash,
-                out byte[] passwordSalt);
+                out byte[] passwordSalt);*/
+            string passwordHash = BCrypt.Net.BCrypt.HashPassword(request.Password);
             user.PasswordHash = passwordHash;
-            user.PasswordSalt = passwordSalt;
             user.PasswordResetToken = null;
             user.ResetTokenExpires = null;
 
@@ -109,7 +126,22 @@ namespace backend_part.Controllers
             return Ok("Password successfully reset.");
         }
 
-        private void CreatedPasswordHash(string password, out byte[] passwordHash,out byte[] passwordSalt)
+        /*[HttpGet("ConfirmEmail")]
+        public async Task<IActionResult> ConfirmEmail(string token, string email)
+        {
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
+            if (user == null)
+            {
+                var result = await _userManager.ConfirmEmailAsync(user, token);
+                if (result.Succeeded)
+                {
+                    return Ok("Email Verified successfull");
+                }
+            }
+            return Ok("This user Doesnot exit");
+        }*/
+
+        /*private void CreatedPasswordHash(string password, out byte[] passwordHash,out byte[] passwordSalt)
         {
             using(var hmas = new HMACSHA512()) 
             {
@@ -117,7 +149,7 @@ namespace backend_part.Controllers
                 passwordHash = hmas
                     .ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
             }
-        }
+        }*/
 
         private bool VerifyPasswordHash(string password, byte[] passwordHash, byte[] passwordSalt)
         {
@@ -132,6 +164,27 @@ namespace backend_part.Controllers
         private string CreateRandomToken()
         {
             return Convert.ToHexString(RandomNumberGenerator.GetBytes(64));
+        }
+
+        private string CreateRandomToken(User user)
+        {
+            List<Claim> claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.Email, user.Email)
+            };
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(
+                _configuration.GetSection("AppSettings:Token").Value!));
+
+            var cred = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
+            var token = new JwtSecurityToken(
+                claims: claims,
+                expires: DateTime.Now.AddDays(1),
+                signingCredentials: cred
+                );
+            var jwt = new JwtSecurityTokenHandler().WriteToken(token);
+
+            return jwt;
         }
 
 

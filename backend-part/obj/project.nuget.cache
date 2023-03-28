@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/lDiDS6cQLeQDa4L8GxK15OfNonZyb6xWqR7RmuATdJiq2iWncRlmBHz9U9HnfaL6D99a3qDefUZA1z+KkIOCQ==",
+  "dgSpecHash": "Kx4NSEw7C5ODRoebBHwDb+Mh3/QxNNDrQeYTNG2U97/5wYZqHfe9F28ccGHiwFaDaZlI0lu62kk0XSnD/TKbWQ==",
   "success": true,
   "projectFilePath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part\\backend-part.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mailkit\\3.4.3\\mailkit.3.4.3.nupkg.sha512",

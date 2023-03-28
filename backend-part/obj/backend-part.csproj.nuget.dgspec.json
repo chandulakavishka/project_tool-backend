@@ -190,6 +190,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.4.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -256,6 +262,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "MailKit": {
               "target": "Package",
               "version": "[3.4.3, )"

@@ -1,6 +1,8 @@
 global using Microsoft.EntityFrameworkCore;
 global using backend_part.Models;
 global using backend_part.Data;
+global using backend_part.Services.Model;
+using backend_part.Services.EmailService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DataContext>();
+builder.Services.AddScoped<IEmailService,EmailService>();
 
 builder.Services.AddCors(p => p.AddPolicy("corspolicy", build =>
 {
