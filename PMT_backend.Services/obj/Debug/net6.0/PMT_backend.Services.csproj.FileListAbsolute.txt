@@ -1,0 +1,12 @@
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\bin\Debug\net6.0\PMT_backend.Services.deps.json
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\bin\Debug\net6.0\PMT_backend.Services.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\bin\Debug\net6.0\PMT_backend.Services.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\obj\Debug\net6.0\PMT_backend.Services.csproj.AssemblyReference.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\obj\Debug\net6.0\PMT_backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\obj\Debug\net6.0\PMT_backend.Services.AssemblyInfoInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\obj\Debug\net6.0\PMT_backend.Services.AssemblyInfo.cs
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\obj\Debug\net6.0\PMT_backend.Services.csproj.CoreCompileInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\obj\Debug\net6.0\PMT_backend.Services.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\obj\Debug\net6.0\refint\PMT_backend.Services.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\obj\Debug\net6.0\PMT_backend.Services.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\original\PMT_backend\PMT_backend.Services\obj\Debug\net6.0\ref\PMT_backend.Services.dll

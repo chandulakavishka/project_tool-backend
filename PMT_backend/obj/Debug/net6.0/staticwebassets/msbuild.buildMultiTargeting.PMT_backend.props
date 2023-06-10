@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PMT_backend.props" />
+</Project>
