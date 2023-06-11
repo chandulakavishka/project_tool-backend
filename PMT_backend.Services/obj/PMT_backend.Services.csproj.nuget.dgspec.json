@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {}
+    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {}
   },
   "projects": {
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {
+    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
+        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
         "projectName": "PMT_backend.Services",
-        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
+        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\obj\\",
+        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

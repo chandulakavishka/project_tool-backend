@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55O6+vUNWNPS9eOKeIGmgDHSkaCUlKOECDNFebrAjLwm88JkFViBjvBC9EI3xNiKU5wVeax0H0YVpqUbUGHjDQ==",
+  "dgSpecHash": "0QQD5uv3izAojysq+J/La8+s9Yod6mEjUbep9UmHiCiA2IJcDWYPOT5AM/72bv7cweiktVm9MgHoMrTDJ4NvgQ==",
   "success": true,
-  "projectFilePath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
+  "projectFilePath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\mailkit\\3.4.3\\mailkit.3.4.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mimekit\\3.4.3\\mimekit.3.4.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend\\PMT_backend.csproj": {}
+    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend\\PMT_backend.csproj": {}
   },
   "projects": {
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj": {
+    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj",
+        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj",
         "projectName": "PMT_backend.DataAccess",
-        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj",
+        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\obj\\",
+        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Models\\PMT_backend.Models.csproj": {
+                "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Models\\PMT_backend.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -79,14 +83,69 @@
         }
       }
     },
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {
+    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Models\\PMT_backend.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
-        "projectName": "PMT_backend.Services",
-        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
+        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Models\\PMT_backend.Models.csproj",
+        "projectName": "PMT_backend.Models",
+        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Models\\PMT_backend.Models.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\obj\\",
+        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
+        "projectName": "PMT_backend.Services",
+        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +199,14 @@
         }
       }
     },
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend\\PMT_backend.csproj": {
+    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend\\PMT_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend\\PMT_backend.csproj",
+        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend\\PMT_backend.csproj",
         "projectName": "PMT_backend",
-        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend\\PMT_backend.csproj",
+        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend\\PMT_backend.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend\\obj\\",
+        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,11 +223,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj": {
-                "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj"
+              "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj": {
+                "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj"
               },
-              "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {
-                "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj"
+              "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {
+                "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj"
               }
             }
           }

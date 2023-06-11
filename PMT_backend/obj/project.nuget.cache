@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9NRvgmg1mCf+ppG5wRr9jsgKQSZd7cD8/y2YKZ8yiON3DhYs4+mv0ZCmviG2UcrcDGK9ACmFUDa1CVQDv27hw==",
+  "dgSpecHash": "+lQCR1s0AqEZ0d/CbcmeSJJx0d1dqBLU4wPTgn2txGYk/P5ZLQMUrxKlIChdnBMcg+6AfKUuNj4w70P6YqrnkA==",
   "success": true,
-  "projectFilePath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend\\PMT_backend.csproj",
+  "projectFilePath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend\\PMT_backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mailkit\\3.4.3\\mailkit.3.4.3.nupkg.sha512",

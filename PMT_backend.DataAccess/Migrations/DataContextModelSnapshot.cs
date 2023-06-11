@@ -51,35 +51,35 @@ namespace PMT_backend.DataAccess.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "c75f1ef3-7905-4380-8514-c6548cf352dc",
+                            Id = "1a5233bf-1785-49d6-b776-358c799dcbc9",
                             ConcurrencyStamp = "1",
                             Name = "Admin",
                             NormalizedName = "Admin"
                         },
                         new
                         {
-                            Id = "3c7d8a54-d47c-4985-9824-6d763fb24cc0",
+                            Id = "d95250f9-e764-4227-814a-4ba10d9a9618",
                             ConcurrencyStamp = "2",
                             Name = "User",
                             NormalizedName = "User"
                         },
                         new
                         {
-                            Id = "887662a3-fa05-4f37-b178-59fbe5d9987f",
+                            Id = "cdc1b018-9ff3-42c1-94f5-f4f1993827b8",
                             ConcurrencyStamp = "3",
                             Name = "Initiative Lead",
                             NormalizedName = "Initiative Lead"
                         },
                         new
                         {
-                            Id = "a4f3c581-6ec8-492c-a61b-736e47a81108",
+                            Id = "09cb4422-e517-40f4-b7ab-266e00712314",
                             ConcurrencyStamp = "4",
                             Name = "Initiative Evaluator",
                             NormalizedName = "Initiative Evaluator"
                         },
                         new
                         {
-                            Id = "d1a37704-cd07-432f-81c9-8d64e1b9679a",
+                            Id = "e4a99d7e-73b0-42d6-8e9e-2bd8e48caaa9",
                             ConcurrencyStamp = "5",
                             Name = "Supervisor",
                             NormalizedName = "Supervisor"
@@ -255,6 +255,62 @@ namespace PMT_backend.DataAccess.Migrations
                     b.HasKey("UserId", "LoginProvider", "Name");
 
                     b.ToTable("AspNetUserTokens", (string)null);
+                });
+
+            modelBuilder.Entity("PMT_backend.Models.UserComment", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
+
+                    b.Property<string>("Body")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ParentId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TaskId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserID")
+                        .HasColumnType("int");
+
+                    b.HasKey("id");
+
+                    b.ToTable("Comments");
+                });
+
+            modelBuilder.Entity("PMT_backend.Models.UserTask", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
+
+                    b.Property<DateTime>("DueDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("InnovativeId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("TaskName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("id");
+
+                    b.ToTable("Tasks");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

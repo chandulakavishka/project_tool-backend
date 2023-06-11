@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.JsonWebTokens;
 using Microsoft.IdentityModel.Tokens;
 using PMT_backend.Services.EmailService;
 using PMT_backend.Services.Model;
+using System.ComponentModel.DataAnnotations;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -77,6 +79,7 @@ namespace PMT_backend.Controllers
             return Ok("This user Doesnot exit");
         }
 
+        
         [HttpPost]
         [Route("login")]
         public async Task<IActionResult> Login([FromBody] LoginUser loginUser)
@@ -84,11 +87,16 @@ namespace PMT_backend.Controllers
             var user = await _userManager.FindByEmailAsync(loginUser.Email);
             if (user != null && await _userManager.CheckPasswordAsync(user, loginUser.Password))
             {
-                var authClaim = new List<Claim>
+                if (!await _userManager.IsEmailConfirmedAsync(user))
                 {
-                    new Claim(ClaimTypes.Name, user.Email),
-                    new Claim(System.IdentityModel.Tokens.Jwt.JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
-                };
+                    return BadRequest("Email not verified. Please verify your email before logging in.");
+                }
+
+                var authClaim = new List<Claim>
+        {
+            new Claim(ClaimTypes.Name, user.Email),
+            new Claim(System.IdentityModel.Tokens.Jwt.JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+        };
 
                 var jwtToken = GetToken(authClaim);
                 return Ok(new
@@ -97,9 +105,57 @@ namespace PMT_backend.Controllers
                     expiration = jwtToken.ValidTo
                 });
             }
+
             return Unauthorized();
+        }
+
+        [HttpPost]
+        [AllowAnonymous]
+        [Route("forgot-password")]
+        public async Task<IActionResult> ForgotPassword([Required] string email)
+        {
+            var user = await _userManager.FindByEmailAsync (email);
+            if(user != null)
+            {
+                var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+                var forgotPasswordLink = Url.Action(nameof(ResetPassword), "User", new { token, email=user.Email }, Request.Scheme);
+                var message = new Message(new string[] { user.Email! }, "forgot Password email Link", forgotPasswordLink!);
+                _emailService.SendEmail(message);
+                return Ok("Forgot password Email send successfull..!");
+            }
+            return Ok("Cound not Sent link to email. Please try again...");
+        }
+
+        [HttpGet("reset-password")]
+        public async Task<IActionResult> ResetPassword(string token ,string email)
+        {
+            var model = new ResetPassword { Token= token,Email = email  };
+            return Ok(new { model });
 
         }
+
+        [HttpPost]
+        [AllowAnonymous]
+        [Route("reset-password")]
+        public async Task<IActionResult> ResetPassword(ResetPassword resetPassword)
+        {
+            var user = await _userManager.FindByEmailAsync(resetPassword.Email);
+            if (user != null)
+            {
+             var resetPassResult = await _userManager.ResetPasswordAsync(user, resetPassword.Token, resetPassword.Password);
+                if(!resetPassResult.Succeeded)
+                {
+                    foreach(var error in resetPassResult.Errors)
+                    {
+                        ModelState.AddModelError(error.Code, error.Description);
+                    }
+                    return Ok(ModelState);
+                }
+                return Ok("Password Change successfull..!");
+            }
+            return Ok("Cound not Sent link to email. Please try again...");
+        }
+
 
         private JwtSecurityToken GetToken(List<Claim> authClaims)
         {

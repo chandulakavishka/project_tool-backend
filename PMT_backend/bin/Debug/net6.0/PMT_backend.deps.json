@@ -604,10 +604,16 @@
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.10",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
+          "PMT_backend.Models": "1.0.0"
         },
         "runtime": {
           "PMT_backend.DataAccess.dll": {}
+        }
+      },
+      "PMT_backend.Models/1.0.0": {
+        "runtime": {
+          "PMT_backend.Models.dll": {}
         }
       },
       "PMT_backend.Services/1.0.0": {
@@ -1054,6 +1060,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "PMT_backend.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PMT_backend.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

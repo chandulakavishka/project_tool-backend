@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PMT_backend.Models;
 
 namespace PMT_backend.DataAccess
 {
@@ -32,6 +33,9 @@ namespace PMT_backend.DataAccess
                 new IdentityRole() { Name = "Supervisor", ConcurrencyStamp = "5", NormalizedName = "Supervisor" }
                 );
         }
+
+        public DbSet<UserComment> Comments => Set<UserComment>();
+        public DbSet<UserTask> Tasks => Set<UserTask>();
 
     }
 }

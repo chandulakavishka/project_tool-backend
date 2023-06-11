@@ -1076,13 +1076,24 @@
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.10",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10"
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
+          "PMT_backend.Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/PMT_backend.DataAccess.dll": {}
         },
         "runtime": {
           "bin/placeholder/PMT_backend.DataAccess.dll": {}
+        }
+      },
+      "PMT_backend.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PMT_backend.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PMT_backend.Models.dll": {}
         }
       },
       "PMT_backend.Services/1.0.0": {
@@ -2781,6 +2792,11 @@
       "path": "../PMT_backend.DataAccess/PMT_backend.DataAccess.csproj",
       "msbuildProject": "../PMT_backend.DataAccess/PMT_backend.DataAccess.csproj"
     },
+    "PMT_backend.Models/1.0.0": {
+      "type": "project",
+      "path": "../PMT_backend.Models/PMT_backend.Models.csproj",
+      "msbuildProject": "../PMT_backend.Models/PMT_backend.Models.csproj"
+    },
     "PMT_backend.Services/1.0.0": {
       "type": "project",
       "path": "../PMT_backend.Services/PMT_backend.Services.csproj",
@@ -2806,11 +2822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend\\PMT_backend.csproj",
+      "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend\\PMT_backend.csproj",
       "projectName": "PMT_backend",
-      "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend\\PMT_backend.csproj",
+      "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend\\PMT_backend.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend\\obj\\",
+      "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2827,11 +2843,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj": {
-              "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj"
+            "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj": {
+              "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj"
             },
-            "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {
-              "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.Services\\PMT_backend.Services.csproj"
+            "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj": {
+              "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Services\\PMT_backend.Services.csproj"
             }
           }
         }

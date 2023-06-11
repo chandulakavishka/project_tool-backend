@@ -883,6 +883,16 @@
             "rid": "win"
           }
         }
+      },
+      "PMT_backend.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PMT_backend.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PMT_backend.Models.dll": {}
+        }
       }
     }
   },
@@ -2222,6 +2232,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "PMT_backend.Models/1.0.0": {
+      "type": "project",
+      "path": "../PMT_backend.Models/PMT_backend.Models.csproj",
+      "msbuildProject": "../PMT_backend.Models/PMT_backend.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2229,7 +2244,8 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.10",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.10",
-      "Microsoft.EntityFrameworkCore.Tools >= 6.0.10"
+      "Microsoft.EntityFrameworkCore.Tools >= 6.0.10",
+      "PMT_backend.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2238,11 +2254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj",
+      "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj",
       "projectName": "PMT_backend.DataAccess",
-      "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj",
+      "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\PMT_backend.DataAccess.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\original\\PMT_backend\\PMT_backend.DataAccess\\obj\\",
+      "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2258,7 +2274,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Models\\PMT_backend.Models.csproj": {
+              "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\PMT_backend.Models\\PMT_backend.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

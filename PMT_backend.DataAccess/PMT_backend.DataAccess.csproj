@@ -16,4 +16,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PMT_backend.Models\PMT_backend.Models.csproj" />
+  </ItemGroup>
+
 </Project>
