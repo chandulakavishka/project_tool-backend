@@ -177,7 +177,7 @@ namespace PMT_backend.Controllers
         public async Task<IActionResult> ResetPassword(string token ,string email)
         {
             var model = new ResetPassword { Token= token,Email = email  };
-            return Redirect("http://localhost:3000/forgotPassword");
+            return Redirect("http://localhost:3000/resetPassword");
 
         }
 
