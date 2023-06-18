@@ -1,0 +1,60 @@
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\bin\Debug\net6.0\backend-part.Models.deps.json
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\bin\Debug\net6.0\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\bin\Debug\net6.0\backend-part.Models.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.AssemblyReference.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\obj\Debug\net6.0\backend-part.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfoInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfo.cs
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.CoreCompileInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\obj\Debug\net6.0\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\obj\Debug\net6.0\refint\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\obj\Debug\net6.0\backend-part.Models.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.Models\obj\Debug\net6.0\ref\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\bin\Debug\net6.0\backend-part.Models.deps.json
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\bin\Debug\net6.0\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\bin\Debug\net6.0\backend-part.Models.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.AssemblyReference.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfoInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfo.cs
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.CoreCompileInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\obj\Debug\net6.0\refint\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.Models\obj\Debug\net6.0\ref\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\bin\Debug\net6.0\backend-part.Models.deps.json
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\bin\Debug\net6.0\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\bin\Debug\net6.0\backend-part.Models.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.AssemblyReference.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfoInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfo.cs
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.CoreCompileInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\obj\Debug\net6.0\refint\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.Models\obj\Debug\net6.0\ref\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\bin\Debug\net6.0\backend-part.Models.deps.json
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\bin\Debug\net6.0\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\bin\Debug\net6.0\backend-part.Models.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.AssemblyReference.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfoInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfo.cs
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.CoreCompileInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\obj\Debug\net6.0\refint\backend-part.Models.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\obj\Debug\net6.0\backend-part.Models.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Models\obj\Debug\net6.0\ref\backend-part.Models.dll
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\bin\Debug\net6.0\backend-part.Models.deps.json
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\bin\Debug\net6.0\backend-part.Models.dll
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\bin\Debug\net6.0\backend-part.Models.pdb
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\obj\Debug\net6.0\backend-part.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\obj\Debug\net6.0\backend-part.Models.AssemblyInfo.cs
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\obj\Debug\net6.0\backend-part.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\obj\Debug\net6.0\backend-part.Models.dll
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\obj\Debug\net6.0\refint\backend-part.Models.dll
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\obj\Debug\net6.0\backend-part.Models.pdb
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Models\obj\Debug\net6.0\ref\backend-part.Models.dll

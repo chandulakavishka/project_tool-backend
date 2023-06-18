@@ -1,0 +1,24 @@
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\bin\Debug\net6.0\backend-part.Services.deps.json
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\bin\Debug\net6.0\backend-part.Services.dll
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\bin\Debug\net6.0\backend-part.Services.pdb
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\obj\Debug\net6.0\backend-part.Services.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\obj\Debug\net6.0\backend-part.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\obj\Debug\net6.0\backend-part.Services.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\obj\Debug\net6.0\backend-part.Services.AssemblyInfo.cs
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\obj\Debug\net6.0\backend-part.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\obj\Debug\net6.0\backend-part.Services.dll
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\obj\Debug\net6.0\refint\backend-part.Services.dll
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\obj\Debug\net6.0\backend-part.Services.pdb
+C:\Users\user\Downloads\project_tool-backend-main\project_tool-backend-main\backend-part.Services\obj\Debug\net6.0\ref\backend-part.Services.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\bin\Debug\net6.0\backend-part.Services.deps.json
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\bin\Debug\net6.0\backend-part.Services.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\bin\Debug\net6.0\backend-part.Services.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.csproj.AssemblyReference.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.AssemblyInfoInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.AssemblyInfo.cs
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.csproj.CoreCompileInputs.cache
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\obj\Debug\net6.0\refint\backend-part.Services.dll
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.pdb
+D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.Services\obj\Debug\net6.0\ref\backend-part.Services.dll
