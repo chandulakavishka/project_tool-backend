@@ -1,68 +1,17 @@
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.deps.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.runtimeconfig.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.AssemblyReference.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfoInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CopyComplete
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\refint\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.genruntimeconfig.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part.DataAccess\obj\Debug\net6.0\ref\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.deps.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.runtimeconfig.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.AssemblyReference.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfoInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CopyComplete
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\refint\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.genruntimeconfig.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part.DataAccess\obj\Debug\net6.0\ref\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.deps.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.runtimeconfig.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.AssemblyReference.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfoInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CopyComplete
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\refint\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.genruntimeconfig.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\ref\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.deps.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.runtimeconfig.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.AssemblyReference.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfoInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CopyComplete
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\refint\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.genruntimeconfig.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\ref\backend-part.DataAccess.dll
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\bin\Debug\net6.0\backend-part.DATAACCESS.deps.json
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\bin\Debug\net6.0\backend-part.DATAACCESS.runtimeconfig.json
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\bin\Debug\net6.0\backend-part.DATAACCESS.dll
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\bin\Debug\net6.0\backend-part.DATAACCESS.pdb
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\bin\Debug\net6.0\backend-part.MODELS.dll
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\bin\Debug\net6.0\backend-part.MODELS.pdb
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\backend-part.DATAACCESS.csproj.AssemblyReference.cache
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\backend-part.DATAACCESS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\backend-part.DATAACCESS.AssemblyInfoInputs.cache
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\backend-part.DATAACCESS.AssemblyInfo.cs
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\backend-part.DATAACCESS.csproj.CoreCompileInputs.cache
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\backend-part.DATAACCESS.csproj.CopyComplete
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\backend-part.DATAACCESS.dll
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\refint\backend-part.DATAACCESS.dll
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\backend-part.DATAACCESS.pdb
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\backend-part.DATAACCESS.genruntimeconfig.cache
+D:\Project\web-app\web-app\backend-part\backend-part.DATAACCESS\obj\Debug\net6.0\ref\backend-part.DATAACCESS.dll

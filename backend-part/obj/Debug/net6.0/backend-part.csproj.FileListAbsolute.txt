@@ -1,346 +1,96 @@
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\appsettings.Development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\appsettings.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\backend-part.exe
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\backend-part.deps.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\backend-part.runtimeconfig.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Humanizer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.csproj.AssemblyReference.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.GeneratedMSBuildEditorConfig.editorconfig
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfoInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.backend-part.Microsoft.AspNetCore.StaticWebAssets.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.build.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\staticwebassets.pack.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\staticwebassets.build.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\staticwebassets.development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\scopedcss\bundle\backend-part.styles.css
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.csproj.CopyComplete
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\refint\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\backend-part.genruntimeconfig.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\obj\Debug\net6.0\ref\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\appsettings.Development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\appsettings.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\backend-part.exe
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\backend-part.deps.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\backend-part.runtimeconfig.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Humanizer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.csproj.AssemblyReference.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.GeneratedMSBuildEditorConfig.editorconfig
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfoInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.backend-part.Microsoft.AspNetCore.StaticWebAssets.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.build.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\staticwebassets.pack.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\staticwebassets.build.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\staticwebassets.development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\scopedcss\bundle\backend-part.styles.css
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.csproj.CopyComplete
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\refint\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\backend-part.genruntimeconfig.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\obj\Debug\net6.0\ref\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\backend-part.Models.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\backend-part.Models.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\backend-part\bin\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\appsettings.Development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\appsettings.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\backend-part.exe
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\backend-part.deps.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\backend-part.runtimeconfig.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Humanizer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\backend-part.Models.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\bin\Debug\net6.0\backend-part.Models.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.AssemblyReference.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.GeneratedMSBuildEditorConfig.editorconfig
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfoInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.backend-part.Microsoft.AspNetCore.StaticWebAssets.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.build.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\staticwebassets.pack.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\staticwebassets.build.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\staticwebassets.development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\scopedcss\bundle\backend-part.styles.css
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.CopyComplete
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\refint\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\backend-part.genruntimeconfig.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\backend-part\obj\Debug\net6.0\ref\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\appsettings.Development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\appsettings.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.exe
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.deps.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.runtimeconfig.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Humanizer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.Models.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.Models.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.AssemblyReference.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.GeneratedMSBuildEditorConfig.editorconfig
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfoInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.backend-part.Microsoft.AspNetCore.StaticWebAssets.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.build.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets.pack.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets.build.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets.development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\scopedcss\bundle\backend-part.styles.css
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.CopyComplete
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\refint\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.genruntimeconfig.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project-tool-backend\project_tool-backend\backend-part\obj\Debug\net6.0\ref\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\appsettings.Development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\appsettings.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.exe
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.deps.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.runtimeconfig.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Humanizer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.OpenApi.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.DataAccess.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.Models.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.DataAccess.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\bin\Debug\net6.0\backend-part.Models.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.AssemblyReference.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.GeneratedMSBuildEditorConfig.editorconfig
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfoInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.CoreCompileInputs.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cs
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.backend-part.Microsoft.AspNetCore.StaticWebAssets.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.build.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backend-part.props
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets.pack.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets.build.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\staticwebassets.development.json
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\scopedcss\bundle\backend-part.styles.css
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.csproj.CopyComplete
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\refint\backend-part.dll
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.pdb
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\backend-part.genruntimeconfig.cache
-D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part\obj\Debug\net6.0\ref\backend-part.dll
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.csproj.AssemblyReference.cache
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfoInputs.cache
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.AssemblyInfo.cs
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.csproj.CoreCompileInputs.cache
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\appsettings.Development.json
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\appsettings.json
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\libman.json
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.exe
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.deps.json
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.runtimeconfig.json
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.pdb
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\AutoMapper.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Azure.Core.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Azure.Identity.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Humanizer.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.CodeDom.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.Text.Json.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.DATAACCESS.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.MODELS.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.SERVICES.dll
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.MODELS.pdb
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.SERVICES.pdb
+D:\Project\web-app\web-app\backend-part\backend-part\bin\Debug\net6.0\backend-part.DATAACCESS.pdb
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.backend-part.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.build.backend-part.props
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backend-part.props
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backend-part.props
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\scopedcss\bundle\backend-part.styles.css
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.csproj.CopyComplete
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.dll
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\refint\backend-part.dll
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.pdb
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\backend-part.genruntimeconfig.cache
+D:\Project\web-app\web-app\backend-part\backend-part\obj\Debug\net6.0\ref\backend-part.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part\\backend-part.csproj": {}
+    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\backend-part.csproj": {}
   },
   "projects": {
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj": {
+    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj",
-        "projectName": "backend-part.DataAccess",
-        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\obj\\",
+        "projectUniqueName": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj",
+        "projectName": "backend-part.DATAACCESS",
+        "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj",
+        "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj": {
-                "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj"
+              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {
+                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj"
               }
             }
           }
@@ -46,27 +46,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.5, )"
+              "version": "[7.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.5, )"
+              "version": "[7.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.5, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[7.0.1, )"
             }
           },
           "imports": [
@@ -85,21 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj": {
+    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj",
-        "projectName": "backend-part.Models",
-        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\obj\\",
+        "projectUniqueName": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj",
+        "projectName": "backend-part.MODELS",
+        "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj",
+        "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,21 +130,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part\\backend-part.csproj": {
+    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part\\backend-part.csproj",
-        "projectName": "backend-part",
-        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part\\backend-part.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part\\obj\\",
+        "projectUniqueName": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj",
+        "projectName": "backend-part.SERVICES",
+        "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj",
+        "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,11 +158,74 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj": {
-                "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj"
+              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj": {
+                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj"
               },
-              "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj": {
-                "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj"
+              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {
+                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\backend-part.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\backend-part.csproj",
+        "projectName": "backend-part",
+        "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\backend-part.csproj",
+        "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {
+                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj"
+              },
+              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj": {
+                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj"
               }
             }
           }
@@ -187,29 +240,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[6.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.5, )"
+              "version": "[12.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.5, )"
+              "version": "[7.0.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -231,7 +274,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
