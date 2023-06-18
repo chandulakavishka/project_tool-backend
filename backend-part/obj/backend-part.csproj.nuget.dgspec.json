@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\backend-part.csproj": {}
+    "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part\\backend-part.csproj": {}
   },
   "projects": {
-    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj": {
+    "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj",
+        "projectUniqueName": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj",
         "projectName": "backend-part.DATAACCESS",
-        "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj",
+        "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj",
         "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\obj\\",
+        "outputPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.DATAACCESS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {
-                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj"
+              "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj": {
+                "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {
+    "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj",
+        "projectUniqueName": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj",
         "projectName": "backend-part.MODELS",
-        "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj",
+        "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj",
         "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\obj\\",
+        "outputPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj": {
+    "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.SERVICES\\backend-part.SERVICES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj",
+        "projectUniqueName": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.SERVICES\\backend-part.SERVICES.csproj",
         "projectName": "backend-part.SERVICES",
-        "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj",
+        "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.SERVICES\\backend-part.SERVICES.csproj",
         "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\obj\\",
+        "outputPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.SERVICES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +158,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj": {
-                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj"
+              "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj": {
+                "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.DATAACCESS\\backend-part.DATAACCESS.csproj"
               },
-              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {
-                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj"
+              "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj": {
+                "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj"
               }
             }
           }
@@ -196,14 +196,14 @@
         }
       }
     },
-    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\backend-part.csproj": {
+    "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part\\backend-part.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\backend-part.csproj",
+        "projectUniqueName": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part\\backend-part.csproj",
         "projectName": "backend-part",
-        "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\backend-part.csproj",
+        "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part\\backend-part.csproj",
         "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part\\obj\\",
+        "outputPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -221,11 +221,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {
-                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj"
+              "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj": {
+                "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj"
               },
-              "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj": {
-                "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.SERVICES\\backend-part.SERVICES.csproj"
+              "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.SERVICES\\backend-part.SERVICES.csproj": {
+                "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.SERVICES\\backend-part.SERVICES.csproj"
               }
             }
           }

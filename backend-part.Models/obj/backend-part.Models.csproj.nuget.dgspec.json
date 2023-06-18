@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {}
+    "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj": {}
   },
   "projects": {
-    "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj": {
+    "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj",
+        "projectUniqueName": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj",
         "projectName": "backend-part.MODELS",
-        "projectPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\backend-part.MODELS.csproj",
+        "projectPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\backend-part.MODELS.csproj",
         "packagesPath": "C:\\Users\\chira\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\web-app\\web-app\\backend-part\\backend-part.MODELS\\obj\\",
+        "outputPath": "C:\\Users\\chira\\OneDrive\\Documents\\GitHub\\project_tool-backend\\backend-part.MODELS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chira\\AppData\\Roaming\\NuGet\\NuGet.Config",
