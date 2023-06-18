@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "backend-part.Models/1.0.0": {
+      "backend-part.MODELS/1.0.0": {
         "runtime": {
-          "backend-part.Models.dll": {}
+          "backend-part.MODELS.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "backend-part.Models/1.0.0": {
+    "backend-part.MODELS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,17 +1,27 @@
-﻿namespace backend_part.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace backend_part.MODELS
 {
     public class User
     {
-        public int Id { get; set; }
-        public string Name { get; set; } = string.Empty;
+        [Key]
+        public int? UId { get; set; }
+        [Required]
+        [MaxLength(150)]
+        public string FirstName { get; set; } = string.Empty;
+        [MaxLength(150)]
+        public string LastName { get; set; } = string.Empty;
+        [MaxLength(150)]
         public string Email { get; set; } = string.Empty;
-        public byte[] PasswordHash { get; set; } = new byte[32];
-        public byte[] PasswordSalt { get; set; } = new byte[32];
-        public string? VerificationToken { get; set; }
-        public DateTime? VerifiedAt { get; set; }
-        public string? PasswordResetToken { get; set; }
-        public DateTime? ResetTokenExpires { get; set; }
+        [MaxLength(150)]
+        public string City { get; set; } = string.Empty;
+        [MaxLength(300)]
+        public string Description { get; set; } = string.Empty;
+
+        public string PhoneNo { get; set; } = string.Empty;
+
+        public UserRole Role { get; set; } 
+
 
     }
 }
-
