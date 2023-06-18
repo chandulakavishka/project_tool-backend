@@ -14,7 +14,7 @@ namespace PMT_backend.Models
         public int TaskId { get; set; }
         public string Name { get; set; } = string.Empty;
         public string Body { get; set; } = string.Empty;
-        public int UserID { get; set; }
+        public string UserID { get; set; } = string.Empty;
         public int ParentId { get; set; }
         public DateTime CreatedAt { get; set; }
     }

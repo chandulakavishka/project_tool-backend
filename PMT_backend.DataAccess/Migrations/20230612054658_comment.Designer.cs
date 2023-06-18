@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PMT_backend.DataAccess;
 
@@ -11,9 +12,10 @@ using PMT_backend.DataAccess;
 namespace PMT_backend.DataAccess.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20230612054658_comment")]
+    partial class comment
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -51,35 +53,35 @@ namespace PMT_backend.DataAccess.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "1d2cf9fb-aae0-4be5-ab23-a97e606fdc84",
+                            Id = "4207c07b-16d3-4f1f-a53f-f124f9eae282",
                             ConcurrencyStamp = "1",
                             Name = "Admin",
                             NormalizedName = "Admin"
                         },
                         new
                         {
-                            Id = "7d71f348-7094-44be-839c-8ef57421c4f6",
+                            Id = "cd86ed40-f297-4d5a-a7b6-1d8645e9e9fb",
                             ConcurrencyStamp = "2",
                             Name = "User",
                             NormalizedName = "User"
                         },
                         new
                         {
-                            Id = "d8d33cb9-6270-4f95-af05-ea4be34ecdd6",
+                            Id = "bbf42401-952f-4e25-8a65-0c761ba950fb",
                             ConcurrencyStamp = "3",
                             Name = "Initiative Lead",
                             NormalizedName = "Initiative Lead"
                         },
                         new
                         {
-                            Id = "b4893380-9c78-49d3-a817-ffa914cb76e5",
+                            Id = "fdf937b1-8075-4369-a8b2-c29c6002acfc",
                             ConcurrencyStamp = "4",
                             Name = "Initiative Evaluator",
                             NormalizedName = "Initiative Evaluator"
                         },
                         new
                         {
-                            Id = "448ff313-4307-498a-ae81-66f2fc9710f3",
+                            Id = "f7046759-4b81-4190-acf8-93978d6de0ce",
                             ConcurrencyStamp = "5",
                             Name = "Supervisor",
                             NormalizedName = "Supervisor"
@@ -257,30 +259,6 @@ namespace PMT_backend.DataAccess.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("PMT_backend.Models.AddUserTask", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<int>("TaskId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("UserName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("TaskUser");
-                });
-
             modelBuilder.Entity("PMT_backend.Models.UserComment", b =>
                 {
                     b.Property<int>("id")
@@ -323,14 +301,10 @@ namespace PMT_backend.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
 
-                    b.Property<string>("DueDate")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<DateTime>("DueDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<int>("InnovativeId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Prograss")
                         .HasColumnType("int");
 
                     b.Property<string>("TaskName")

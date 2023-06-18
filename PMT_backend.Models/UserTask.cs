@@ -13,6 +13,8 @@ namespace PMT_backend.Models
         public int id { get; set; }
         public int InnovativeId { get; set; }
         public string TaskName { get; set; } = string.Empty;
-        public DateTime DueDate { get; set; }
+        
+        public string DueDate { get; set; } = string.Empty;
+        public int Prograss { get; set; }
     }
 }

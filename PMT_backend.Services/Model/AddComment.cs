@@ -16,7 +16,7 @@ namespace PMT_backend.Services.Model
         [Required]
         public string Body { get; set; } = string.Empty;
         [Required]
-        public int UserID { get; set; }
+        public string UserID { get; set; } = string.Empty;
         public int ParentId { get; set; }
         public DateTime CreatedAt { get; internal set; }
     }

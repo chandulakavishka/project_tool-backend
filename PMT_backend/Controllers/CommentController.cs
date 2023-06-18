@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PMT_backend.DataAccess;
 using PMT_backend.Models;
@@ -100,8 +101,9 @@ namespace PMT_backend.Controllers
             return newComment;
 
         }
-
+       
         [HttpGet]
+        
         public async Task<ActionResult> getdata()
         {
             var comment = await _context.Comments.ToListAsync();

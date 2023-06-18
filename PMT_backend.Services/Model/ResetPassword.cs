@@ -17,4 +17,9 @@ namespace PMT_backend.Services.Model
         public string Token { get; set; } = null!;
 
     }
+
+
+
+
+   
 }

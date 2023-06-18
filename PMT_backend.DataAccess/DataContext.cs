@@ -36,6 +36,7 @@ namespace PMT_backend.DataAccess
 
         public DbSet<UserComment> Comments => Set<UserComment>();
         public DbSet<UserTask> Tasks => Set<UserTask>();
+        public DbSet<AddUserTask> TaskUser => Set<AddUserTask>();
 
     }
 }

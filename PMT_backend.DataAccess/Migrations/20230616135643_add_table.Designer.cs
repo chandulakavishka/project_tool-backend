@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PMT_backend.DataAccess;
 
@@ -11,9 +12,10 @@ using PMT_backend.DataAccess;
 namespace PMT_backend.DataAccess.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20230616135643_add_table")]
+    partial class add_table
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -51,35 +53,35 @@ namespace PMT_backend.DataAccess.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "1d2cf9fb-aae0-4be5-ab23-a97e606fdc84",
+                            Id = "5cc9ea9c-9360-49f1-b6b9-f7750e58ff32",
                             ConcurrencyStamp = "1",
                             Name = "Admin",
                             NormalizedName = "Admin"
                         },
                         new
                         {
-                            Id = "7d71f348-7094-44be-839c-8ef57421c4f6",
+                            Id = "327a3fa5-7c36-46b9-9004-e081e95e544e",
                             ConcurrencyStamp = "2",
                             Name = "User",
                             NormalizedName = "User"
                         },
                         new
                         {
-                            Id = "d8d33cb9-6270-4f95-af05-ea4be34ecdd6",
+                            Id = "324c033b-e484-4c90-8be9-8967567202f0",
                             ConcurrencyStamp = "3",
                             Name = "Initiative Lead",
                             NormalizedName = "Initiative Lead"
                         },
                         new
                         {
-                            Id = "b4893380-9c78-49d3-a817-ffa914cb76e5",
+                            Id = "f62e6f1d-0618-4e1d-9195-ccaebd88e66d",
                             ConcurrencyStamp = "4",
                             Name = "Initiative Evaluator",
                             NormalizedName = "Initiative Evaluator"
                         },
                         new
                         {
-                            Id = "448ff313-4307-498a-ae81-66f2fc9710f3",
+                            Id = "e953e4fc-9d5d-4b3c-9c57-d795770acd64",
                             ConcurrencyStamp = "5",
                             Name = "Supervisor",
                             NormalizedName = "Supervisor"
@@ -265,12 +267,11 @@ namespace PMT_backend.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<int>("TaskId")
+                    b.Property<int>("InnovativeId")
                         .HasColumnType("int");
 
-                    b.Property<string>("UserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("TaskId")
+                        .HasColumnType("int");
 
                     b.Property<string>("UserName")
                         .IsRequired()

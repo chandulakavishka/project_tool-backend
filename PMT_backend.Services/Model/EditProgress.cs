@@ -7,12 +7,10 @@ using System.Threading.Tasks;
 
 namespace PMT_backend.Services.Model
 {
-    public class EditTask
+    public class EditProgress
     {
         [Required]
         public int id { get; set; }
-       // public string TaskName { get; set; } = string.Empty;
-        public string DueDate { get; set; } = string.Empty;
-        //public int Prograss { get; set; }
+        public int Prograss { get; set; }
     }
 }

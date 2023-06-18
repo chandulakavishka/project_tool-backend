@@ -23,6 +23,8 @@ namespace PMT_backend.Controllers
             {
                 InnovativeId = request.InnovativeId,
                 TaskName = request.TaskName,
+                DueDate = request.DueDate,
+                Prograss = request.Prograss
             };
             _context.Tasks.Add(Task);
             await _context.SaveChangesAsync();
@@ -32,12 +34,32 @@ namespace PMT_backend.Controllers
         }
 
         [HttpPost("edit")]
-        public async Task<List<UserTask>> EditTask(EditTask request)
+        public async Task<ActionResult<List<UserTask>>> EditTask(EditTask request)
+        {
+            
+                var task = await _context.Tasks.FirstOrDefaultAsync(t => t.id == request.id);
+
+                if (task == null)
+                {
+                    return NotFound(); // Return appropriate status code if the task is not found
+                }
+
+                task.DueDate = request.DueDate;
+
+                await _context.SaveChangesAsync();
+
+                var updatedTasks = await _context.Tasks.ToListAsync();
+
+                return updatedTasks;
+        }
+
+        [HttpPost("editPrograss")]
+        public async Task<List<UserTask>> EditProgress(EditProgress request)
         {
             var Task = await _context.Tasks.FirstOrDefaultAsync(u => u.id == request.id);
 
-            Task.TaskName = request.TaskName;
-            Task.DueDate = request.DueDate;
+
+            Task.Prograss = request.Prograss;
 
             await _context.SaveChangesAsync();
 
@@ -75,5 +97,37 @@ namespace PMT_backend.Controllers
             return newTask;
 
         }
+
+
+
+
+        [HttpGet("{taskId}")]
+        public IActionResult GetUsernamesAndIdsByTaskId(int taskId)
+        {
+            var usernamesAndIds = _context.TaskUser
+                .Where(ut => ut.TaskId == taskId)
+                .Select(ut => new { ut.UserName, ut.UserId })
+                .ToList();
+
+            return Ok(usernamesAndIds);
+        }
+
+
+        // POST: api/tasks/{taskId}/user
+        [HttpPost]
+        public IActionResult AddUserToTask(int taskId, [FromBody] AddUserTask addUserTask)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest("Invalid model data");
+
+            addUserTask.TaskId = taskId;
+
+            _context.TaskUser.Add(addUserTask);
+            _context.SaveChanges();
+
+            return CreatedAtAction("GetUsernamesByTaskId", new { taskId = addUserTask.TaskId }, addUserTask);
+        }
+
+
     }
 }

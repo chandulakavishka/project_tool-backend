@@ -15,5 +15,7 @@ namespace PMT_backend.Services.Model
         public string TaskName { get; set; } = string.Empty;
         [Required]
         public string DueDate { get; set; } = string.Empty;
+        [Required]
+        public int Prograss { get; set; }
     }
 }

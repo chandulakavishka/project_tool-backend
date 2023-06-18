@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PMT_backend.DataAccess;
 
@@ -11,9 +12,10 @@ using PMT_backend.DataAccess;
 namespace PMT_backend.DataAccess.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20230616040415_add_duedate_type")]
+    partial class add_duedate_type
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -51,35 +53,35 @@ namespace PMT_backend.DataAccess.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "1d2cf9fb-aae0-4be5-ab23-a97e606fdc84",
+                            Id = "6cfc440f-6c23-4a1d-bce7-5dc7a1dbd598",
                             ConcurrencyStamp = "1",
                             Name = "Admin",
                             NormalizedName = "Admin"
                         },
                         new
                         {
-                            Id = "7d71f348-7094-44be-839c-8ef57421c4f6",
+                            Id = "7a22068d-ca6a-49d5-b3c5-cee5f66854f7",
                             ConcurrencyStamp = "2",
                             Name = "User",
                             NormalizedName = "User"
                         },
                         new
                         {
-                            Id = "d8d33cb9-6270-4f95-af05-ea4be34ecdd6",
+                            Id = "fc55af34-c4fd-4850-a45f-2596cbdd6750",
                             ConcurrencyStamp = "3",
                             Name = "Initiative Lead",
                             NormalizedName = "Initiative Lead"
                         },
                         new
                         {
-                            Id = "b4893380-9c78-49d3-a817-ffa914cb76e5",
+                            Id = "396bf071-d40e-4687-8e5e-6c66ef5c4768",
                             ConcurrencyStamp = "4",
                             Name = "Initiative Evaluator",
                             NormalizedName = "Initiative Evaluator"
                         },
                         new
                         {
-                            Id = "448ff313-4307-498a-ae81-66f2fc9710f3",
+                            Id = "663e0e22-765b-4c50-be94-429e77e5f063",
                             ConcurrencyStamp = "5",
                             Name = "Supervisor",
                             NormalizedName = "Supervisor"
@@ -255,30 +257,6 @@ namespace PMT_backend.DataAccess.Migrations
                     b.HasKey("UserId", "LoginProvider", "Name");
 
                     b.ToTable("AspNetUserTokens", (string)null);
-                });
-
-            modelBuilder.Entity("PMT_backend.Models.AddUserTask", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<int>("TaskId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("UserName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("TaskUser");
                 });
 
             modelBuilder.Entity("PMT_backend.Models.UserComment", b =>
