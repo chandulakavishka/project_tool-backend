@@ -9,8 +9,9 @@ namespace backend_part.Services
 {
     public interface IMeeting
     {
-        public List<Meeting> GetMettings();
-        public void AddMetting(Meeting meeting);
+        public List<Meeting> GetMeetings();
+        public void AddMeeting(Meeting meeting);
         public Meeting GetMeeting(int id);
+        public void UpdateMeeting(Meeting meeting);
     }
 }

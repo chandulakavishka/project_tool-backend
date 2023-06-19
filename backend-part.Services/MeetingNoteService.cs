@@ -13,6 +13,7 @@ namespace backend_part.Services
         private readonly DataContext _dBAccess = new DataContext();
 
         public void AddMeetingNote(MeetingNotes meetingNote)
+        
         {
             try
             {
@@ -24,11 +25,14 @@ namespace backend_part.Services
 
             }
         }
-        public MeetingNotes GetMeetingNotes(int id)
-        {
-            MeetingNotes _meetingNote = _dBAccess.MeetingNotes.Find(id);
-            return _meetingNote;
-        }
-    }
+        //public List<MeetingNotes> GetMeetingNotes(int projectid, int innovativeid)
+        //{
+        //    var _meetingNote = _dBAccess.MeetingNotes.FirstOrDefault(meetingNote => meetingNote.ProjectId == projectid && meetingNote.InnovativeId == innovativeid);
+        //    re
+            
+        //}
 
+    }
 }
+
+

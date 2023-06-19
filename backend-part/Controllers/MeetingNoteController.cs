@@ -18,7 +18,7 @@ namespace backend_part.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<MeetingNotes>> AddMeeting(MeetingNotes meetingNote)
+        public ActionResult<MeetingNotes> AddMeeting(MeetingNotes meetingNote)
         {
             try
             {
@@ -33,21 +33,20 @@ namespace backend_part.Controllers
         }
 
 
-        [HttpGet]
-        [Route("id")]
-        public ActionResult<Meeting> GetMeetingDetails(int id)
-        {
-            try
-            {
-                var product = repo.GetMeetingNotes(id);
+        //[HttpGet("{projectid}/{innovativeid}")]
+        //public ActionResult<MeetingNotes> GetMeetingNotes(int projectid, int innovativeid)
+        //{
+        //    try
+        //    {
+        //        var note_ = repo.GetMeetingNotes(projectid, innovativeid);
 
-                return Ok(product);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.ToString());
-            }
-        }
+        //        return Ok(note_);
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return BadRequest(ex.ToString());
+        //    }
+        //}
     }
 }
 

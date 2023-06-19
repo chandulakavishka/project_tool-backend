@@ -1,6 +1,6 @@
 ﻿using backend_part.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+
 
 namespace backend_part.Controllers
 {
@@ -9,17 +9,19 @@ namespace backend_part.Controllers
     public class MeetingController : ControllerBase
     {
         private readonly IMeeting repo;
+
         public MeetingController(IMeeting _repo)
         {
+
             repo = _repo;
         }
 
         [HttpPost]
-        public IActionResult AddMeeting(Meeting meeting)
+        public ActionResult AddMeeting(Meeting meeting)
         {
             try
             {
-                repo.AddMetting(meeting);
+                repo.AddMeeting(meeting);
 
                 return Ok();
             }
@@ -27,6 +29,22 @@ namespace backend_part.Controllers
             {
                 return BadRequest(ex.ToString());
             }
+        }
+
+        [HttpGet]
+        public ActionResult<Meeting> GetAllMeeting()
+        {
+            try
+            {
+                var product = repo.GetMeetings();
+
+                return Ok(product);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.ToString());
+            }
+
         }
 
         [HttpGet]
@@ -38,6 +56,22 @@ namespace backend_part.Controllers
                 var product = repo.GetMeeting(id);
 
                 return Ok(product);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.ToString());
+            }
+
+        }
+
+        [HttpPut]
+        public ActionResult<Meeting> UpdateMeeting(Meeting meeting)
+        {
+            try
+            {
+                repo.UpdateMeeting(meeting);
+                return Ok();
+
             }
             catch (Exception ex)
             {

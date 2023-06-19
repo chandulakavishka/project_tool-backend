@@ -1,9 +1,10 @@
-﻿using backend_part.Data;
-using backend_part.Models;
+﻿using backend_part.Models;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using backend_part.Data;
 using System.Threading.Tasks;
 
 namespace backend_part.Services
@@ -14,14 +15,14 @@ namespace backend_part.Services
         private readonly DataContext _dBAccess = new DataContext();
 
 
-        public List<Meeting> GetMettings()
+        public List<Meeting> GetMeetings()
         {
             var meeting_ = _dBAccess.Meeting.ToList();
             return meeting_;
         }
 
 
-        public void AddMetting(Meeting meeting)
+        public void AddMeeting(Meeting meeting)
         {
             try
             {
@@ -30,7 +31,7 @@ namespace backend_part.Services
             }
             catch (Exception EX)
             {
-
+                EX.ToString();
             }
         }
 
@@ -40,6 +41,15 @@ namespace backend_part.Services
             return _meeting;
         }
 
-
+        public void UpdateMeeting(Meeting meeting)
+        {
+            
+            var meeting_ = _dBAccess.Meeting.First(a => a.Id == meeting.Id);
+            meeting_.date = meeting.date;
+            meeting_.Description = meeting.Description;
+            meeting_.Title = meeting.Title;
+            meeting_.Link = meeting.Link;
+            _dBAccess.SaveChanges();
+        }
     }
 }

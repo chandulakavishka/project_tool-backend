@@ -10,7 +10,7 @@ namespace backend_part.Services
     public interface IMeetingNote
     {
         public void AddMeetingNote(MeetingNotes meetingNote);
-        public MeetingNotes GetMeetingNotes(int id);
+  //      public List<MeetingNotes> GetMeetingNotes(int projectid, int innovativeid);
     }
 }
 
