@@ -1,0 +1,12 @@
+D:\2nd Year Project\project_tool-backend\backend-part.Services\bin\Debug\net6.0\backend-part.Services.deps.json
+D:\2nd Year Project\project_tool-backend\backend-part.Services\bin\Debug\net6.0\backend-part.Services.dll
+D:\2nd Year Project\project_tool-backend\backend-part.Services\bin\Debug\net6.0\backend-part.Services.pdb
+D:\2nd Year Project\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.csproj.AssemblyReference.cache
+D:\2nd Year Project\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd Year Project\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.AssemblyInfoInputs.cache
+D:\2nd Year Project\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.AssemblyInfo.cs
+D:\2nd Year Project\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.csproj.CoreCompileInputs.cache
+D:\2nd Year Project\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.dll
+D:\2nd Year Project\project_tool-backend\backend-part.Services\obj\Debug\net6.0\refint\backend-part.Services.dll
+D:\2nd Year Project\project_tool-backend\backend-part.Services\obj\Debug\net6.0\backend-part.Services.pdb
+D:\2nd Year Project\project_tool-backend\backend-part.Services\obj\Debug\net6.0\ref\backend-part.Services.dll

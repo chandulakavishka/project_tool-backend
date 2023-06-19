@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj": {}
+    "D:\\2nd Year Project\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj": {
+    "D:\\2nd Year Project\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj",
+        "projectUniqueName": "D:\\2nd Year Project\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj",
         "projectName": "backend-part.DataAccess",
-        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.DataAccess\\obj\\",
+        "projectPath": "D:\\2nd Year Project\\project_tool-backend\\backend-part.DataAccess\\backend-part.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\99wak\\.nuget\\packages\\",
+        "outputPath": "D:\\2nd Year Project\\project_tool-backend\\backend-part.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\99wak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj": {
-                "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj"
+              "D:\\2nd Year Project\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj": {
+                "projectPath": "D:\\2nd Year Project\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj"
               }
             }
           }
@@ -89,17 +89,17 @@
         }
       }
     },
-    "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj": {
+    "D:\\2nd Year Project\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj",
+        "projectUniqueName": "D:\\2nd Year Project\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj",
         "projectName": "backend-part.Models",
-        "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Models\\obj\\",
+        "projectPath": "D:\\2nd Year Project\\project_tool-backend\\backend-part.Models\\backend-part.Models.csproj",
+        "packagesPath": "C:\\Users\\99wak\\.nuget\\packages\\",
+        "outputPath": "D:\\2nd Year Project\\project_tool-backend\\backend-part.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\99wak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -13,8 +13,8 @@ namespace backend_part.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("server=DESKTOP-O596UUO;database=AppDB;Integrated Security=true; MultipleActiveResultSets=true; TrustServerCertificate=true;");
+            optionsBuilder.UseSqlServer("server=CHATHURA-LAPTOP;database=AppDB;Integrated Security=true; MultipleActiveResultSets=true; TrustServerCertificate=true;");
         }
-        public DbSet<User> Users => Set<User>();
+        public DbSet<Innovative> Innovatives=> Set<Innovative>();
     }
 }

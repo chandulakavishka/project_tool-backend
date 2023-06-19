@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\99wak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Services\\backend-part.Services.csproj",
+      "projectUniqueName": "D:\\2nd Year Project\\project_tool-backend\\backend-part.Services\\backend-part.Services.csproj",
       "projectName": "backend-part.Services",
-      "projectPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Services\\backend-part.Services.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\My campus document\\Acadamic Semester 3\\Software Project\\Code\\backend-part\\project_tool-backend\\backend-part.Services\\obj\\",
+      "projectPath": "D:\\2nd Year Project\\project_tool-backend\\backend-part.Services\\backend-part.Services.csproj",
+      "packagesPath": "C:\\Users\\99wak\\.nuget\\packages\\",
+      "outputPath": "D:\\2nd Year Project\\project_tool-backend\\backend-part.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\99wak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

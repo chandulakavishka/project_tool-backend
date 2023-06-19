@@ -66,3 +66,20 @@ D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\pro
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.pdb
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.genruntimeconfig.cache
 D:\My campus document\Acadamic Semester 3\Software Project\Code\backend-part\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\ref\backend-part.DataAccess.dll
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.deps.json
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.runtimeconfig.json
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.dll
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.DataAccess.pdb
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.dll
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\bin\Debug\net6.0\backend-part.Models.pdb
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.AssemblyReference.cache
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfoInputs.cache
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.AssemblyInfo.cs
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CoreCompileInputs.cache
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.csproj.CopyComplete
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.dll
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\refint\backend-part.DataAccess.dll
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.pdb
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\backend-part.DataAccess.genruntimeconfig.cache
+D:\2nd Year Project\project_tool-backend\backend-part.DataAccess\obj\Debug\net6.0\ref\backend-part.DataAccess.dll
