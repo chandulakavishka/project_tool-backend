@@ -28,7 +28,8 @@ namespace backend_part.Controllers
             };
             _context.Tasks.Add(Task);
             await _context.SaveChangesAsync();
-            var newTask = await _context.Tasks.ToListAsync();
+            var newTask = await _context.Tasks
+                          .Where(t => t.InnovativeId == request.InnovativeId).ToListAsync();
 
             return newTask;
         }
@@ -68,7 +69,7 @@ namespace backend_part.Controllers
             return newTask;
         }
 
-        [HttpGet]
+        /*[HttpGet]
         public async Task<ActionResult> getTask()
         {
             var Task = await _context.Tasks.ToListAsync();
@@ -80,6 +81,18 @@ namespace backend_part.Controllers
             }
 
             return Ok(Task);
+        }*/
+        [HttpGet]
+        public async Task<ActionResult> GetTask(int innovativeId)
+        {
+            var tasks = await _context.Tasks.Where(t => t.InnovativeId == innovativeId).ToListAsync();
+
+            if (tasks == null || tasks.Count == 0)
+            {
+                return NotFound("No tasks found for the provided innovative ID.");
+            }
+
+            return Ok(tasks);
         }
 
         [HttpDelete("{id}")]
